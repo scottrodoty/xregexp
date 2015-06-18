@@ -1,0 +1,17 @@
+{
+  "name": "xregexp",
+  "version": "3.0.0-pre",
+  "description": "Extended regular expressions",
+  "main": "./xregexp-all.js",
+  "ignore": [],
+  "homepage": "http://xregexp.com/",
+  "author": "Steven Levithan <steves_list@hotmail.com>",
+  "license": "MIT",
+  "_source": "git://github.com/slevithan/xregexp.git",
+  "_target": "3.0.0-pre",
+    "keywords": [
+        "regex",
+        "regexp"
+    ],
+  
+}
